@@ -1,3 +1,21 @@
+# Onderbouwing
+
+## Font
+
+Ik heb ervoor gekozen om het Brenner font te gebruiken aangezien deze erg veelzijdig is met meerde variaties van het font.
+Voor de stem van de hoofdpersoon heb ik ervoor gekozen om "Brenner Sans Condensed Regular" te gebruiken. Dit heb ik gedaan omdat dit erg serieus maar ook compact en monotoon lijkt net zoals de stem van de hoofpersoon. Voor de stem van de interviewer heb ik "brenner mono" gebruikt. Dit heb ik gedaan omdat deze variatie erg serieus en bijna technisch lijkt doordat soortgelijke fonts vaak worden gebruikt voor het schrijven van code.
+
+## Scene 1
+
+Voor scene een heb ik tijdens alle alarm geluiden een fel rode box-shadow gegeven aan de video container om het gevoel van de alarmbellen over te brengen. Verder heb ik tijdens het stukje met "fuck off skinjob" de video container kleiner gemaakt zodat de kijker ziet watvoor impact dit heeft op het gevoel van de hoofdpersoon.
+
+Tijdens het interview heb ik de teksten van de hoofpersoon in beeld weergegeven om zo een contrast en onderscheid te maken tussen wanneer de interviewer praat en de hoofdpersoon. Om de piep toon na te bootsen op een irritante manier heb ik ook geleidelijk de video container laten trillen, en de achtergrond laten flashen. Op deze manier heb ik de piep toon ook irritant gemaakt voor als je het niet hoort maar wel kunt zien.
+
+## Scene 2
+
+Tijdens de tweede scene heb ik ervoor gekozen om weer alle teksten die de hoofdpersoon zegt in beeld te weergeven. Echter heb ik deze teksten ook laten trillen om zo de onzekerheid in de stem van de hoofdpersoon na te bootsen. Verder heb ik de container laten trillen om zo toch de intensiteit aan te geven. Ook heb ik de video container geleidelijk groter laten worden waardoor het lijkt alsof er ingezoomd wordt op de hoofdpersoon. Voor de achtergrond heb ik een gradient gebruikt die beweegt met kleur. Deze symboliseert de droomerige maar toch enge/eerie achtige achtergrond muziek.
+
+
 # Web Typography, 2020/2021
 
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
@@ -81,3 +99,6 @@ Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vr
 Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
 Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+
+
+
